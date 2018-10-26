@@ -14,7 +14,7 @@
 
 **运行:**
 
-<yourpath>/php run.php
+&lt;yourpath&gt;/php run.php
 
 ## 申请dnspod的ID和token
 教程见dnspod官网：
